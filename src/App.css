@@ -1,0 +1,46 @@
+.header {
+    background-color: #7e10d2;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    -ms-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    -moz-background-origin: padding-box;
+    -webkit-background-origin: padding-box;
+    background-origin: padding-box;
+    -moz-background-size: auto auto;
+    -webkit-background-size: auto auto;
+    background-size: auto auto;
+    -moz-background-position: 0 0;
+    -webkit-background-position: 0 0;
+    background-position: 0 0;
+    -moz-background-repeat: repeat;
+    -webkit-background-repeat: repeat;
+    background-repeat: repeat;
+}
+
+img {
+    width: 150px;
+    margin-left: 10px;
+    height: 30px;
+}

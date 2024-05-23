@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppings", sans-serif;
+  display: flex;
+  justify-content: center;
+  background-color: #E6E6FA;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  align-items: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}

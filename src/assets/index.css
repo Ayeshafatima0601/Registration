@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppings", sans-serif;
+  display: flex;
+  justify-content: center;
+<<<<<<< HEAD
+  background-color: whitesmoke;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  align-items: center;
+=======
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+>>>>>>> ffb6631b09cfd024ad3c24c1f8a1391146760f58
+}
