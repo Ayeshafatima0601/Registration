@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import LoginPage from './Login/LoginPage';
-import Header from './Header/header';
+// import Header from './Header/header';
 import './App.css'; 
 
 const App = () => {
@@ -15,7 +15,7 @@ const App = () => {
 
     return (
         <div className="App">
-         <Header />
+         {/* <Header /> */}
             <LoginPage
                 username={username}
                 setUsername={setUsername}
